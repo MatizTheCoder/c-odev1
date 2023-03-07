@@ -1,0 +1,15 @@
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\bin\Debug\net7.0\if else ternary.exe
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\bin\Debug\net7.0\if else ternary.deps.json
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\bin\Debug\net7.0\if else ternary.runtimeconfig.json
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\bin\Debug\net7.0\if else ternary.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\bin\Debug\net7.0\if else ternary.pdb
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.csproj.AssemblyReference.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.AssemblyInfoInputs.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.AssemblyInfo.cs
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.csproj.CoreCompileInputs.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\refint\if else ternary.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.pdb
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\if else ternary.genruntimeconfig.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\if else ternary\obj\Debug\net7.0\ref\if else ternary.dll
