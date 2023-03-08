@@ -1,0 +1,15 @@
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\bin\Debug\net7.0\while.exe
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\bin\Debug\net7.0\while.deps.json
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\bin\Debug\net7.0\while.runtimeconfig.json
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\bin\Debug\net7.0\while.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\bin\Debug\net7.0\while.pdb
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.csproj.AssemblyReference.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.AssemblyInfoInputs.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.AssemblyInfo.cs
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.csproj.CoreCompileInputs.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\refint\while.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.pdb
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\while.genruntimeconfig.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\while\obj\Debug\net7.0\ref\while.dll
