@@ -1,0 +1,15 @@
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\bin\Debug\net7.0\diziler.exe
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\bin\Debug\net7.0\diziler.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Users\matiz\Desktop\software dev\dotnet\odevler\diziler\obj\Debug\net7.0\ref\diziler.dll
